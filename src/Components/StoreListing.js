@@ -32,7 +32,8 @@ return (
             </Col>
         </Row>
     </Row>
-
-})
+    </Container>
+)
+}
 
 export default StoreListing
