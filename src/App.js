@@ -1,10 +1,10 @@
 import './App.css';
-import App from './App'
+import BackgroundImage from './Components/BackImage';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <BackgroundImage />
     </div>
   );
 }

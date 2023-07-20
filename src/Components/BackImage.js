@@ -9,3 +9,5 @@ function BackgroundImage () {
        </div> 
     )
 }
+
+export default BackgroundImage
